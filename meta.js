@@ -11,5 +11,5 @@ module.exports = {
             label: 'Project name',
         }
     },
-    skipInterpolation: 'template/src/page/template/list.template.js'
+    skipInterpolation: 'src/page/template/list.template.js'
 };
